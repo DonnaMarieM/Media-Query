@@ -1,2 +1,2 @@
-# media_queries_solutions
+# media_queries_solution
  
